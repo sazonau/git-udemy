@@ -1,0 +1,8 @@
+##########
+## Teams
+##########
+
+Los Angeles Lakers
+Denver Nuggets
+Philadelphia 76ers
+Chicago Bulls
