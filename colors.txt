@@ -5,3 +5,5 @@ green
 blue
 indigo
 violet
+purple
+black
